@@ -1,6 +1,7 @@
 # npmtest-imagemagick-stream
 
-test coverage for  [imagemagick-stream (v4.1.1)](https://github.com/eivindfjeldstad/imagemagick-stream#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-imagemagick-stream.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-imagemagick-stream) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-imagemagick-stream.svg)](https://travis-ci.org/npmtest/node-npmtest-imagemagick-stream)
+#### basic test coverage for  [imagemagick-stream (v4.1.1)](https://github.com/eivindfjeldstad/imagemagick-stream#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-imagemagick-stream.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-imagemagick-stream) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-imagemagick-stream.svg)](https://travis-ci.org/npmtest/node-npmtest-imagemagick-stream)
+
 #### Streaming Imagemagick api
 
 [![NPM](https://nodei.co/npm/imagemagick-stream.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/imagemagick-stream)
@@ -9,7 +10,7 @@ test coverage for  [imagemagick-stream (v4.1.1)](https://github.com/eivindfjelds
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-imagemagick-stream/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-imagemagick-stream/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-imagemagick-stream/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-imagemagick-stream/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-imagemagick-stream/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-imagemagick-stream/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-imagemagick-stream/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-imagemagick-stream/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-imagemagick-stream/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-imagemagick-stream/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-imagemagick-stream/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-imagemagick-stream/build/coverage.html/index.html)
 
@@ -73,7 +74,8 @@ test coverage for  [imagemagick-stream (v4.1.1)](https://github.com/eivindfjelds
     "scripts": {
         "test": "mocha --reporter spec"
     },
-    "version": "4.1.1"
+    "version": "4.1.1",
+    "bin": {}
 }
 ```
 

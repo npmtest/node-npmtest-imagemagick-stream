@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "test coverage for  [imagemagick-stream (v4.1.1)](https://github.com/eivindfjeldstad/imagemagick-stream#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-imagemagick-stream.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-imagemagick-stream) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-imagemagick-stream.svg)](https://travis-ci.org/npmtest/node-npmtest-imagemagick-stream)",
+    "description": "#### basic test coverage for  [imagemagick-stream (v4.1.1)](https://github.com/eivindfjeldstad/imagemagick-stream#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-imagemagick-stream.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-imagemagick-stream) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-imagemagick-stream.svg)](https://travis-ci.org/npmtest/node-npmtest-imagemagick-stream)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "imagemagick-stream": "*",
